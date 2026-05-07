@@ -1,0 +1,13 @@
+# Isaac mod - generated / OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# LuaSocket (should be provided by Isaac, not bundled)
+socket/
+*.dll
+*.so
+
+# Editor
+.vscode/
+.idea/
