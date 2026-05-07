@@ -21,6 +21,7 @@ The mod opens a TCP socket to `127.0.0.1:58430` and listens for JSON commands fr
 | Chaos Reroll | Spawns 5 item pedestals + enemies, D6s them 3 times |
 | Cursed Blessing | 3 random items in inventory — but adds all curses |
 | Trapdoor | Spawns a trapdoor under you |
+| Worm Trio | Spawns Pin, Scolex, and The Frail |
 
 ### Curses
 | Profile | Description |
